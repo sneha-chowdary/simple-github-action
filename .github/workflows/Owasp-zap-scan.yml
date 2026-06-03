@@ -24,3 +24,4 @@ jobs:
           target: 'http://testfire.net/'
           allow_issue_writing: false
           rules_file_name: ''
+          artifact_name: 'zap-scan-report'
